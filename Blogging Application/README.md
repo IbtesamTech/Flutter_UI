@@ -1,16 +1,8 @@
 # bloggingapp
 
-A new Flutter project.
+A Flutter UI desing for developer
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![bloggingapp](https://firebasestorage.googleapis.com/v0/b/remp-d2ca1.appspot.com/o/post.png?alt=media&token=848a75da-ed3f-49e6-81d3-cf253e5f6ea4)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
